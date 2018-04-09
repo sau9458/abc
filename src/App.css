@@ -1,0 +1,30 @@
+.App{
+  padding: 5px;
+}
+.container{
+  border:1.4px solid;
+  width:20%;
+  border-color: #c0c0c0;
+  cursor: pointer;
+}
+.Data{
+  padding-bottom: 5px;
+  padding-left: 20px;
+  font-size: 12px;
+  font-family: Arial;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1.4px solid #c0c0c0;
+  margin: 0px;
+}
+.Weather{
+padding-left: 20px;
+font-size: 12px;
+font-family: Arial;
+padding-right: 5px;
+margin: 0px;
+
+}
+p  {
+  padding: 5px;
+}
